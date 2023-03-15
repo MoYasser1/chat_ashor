@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873297536160",
+    "project_id": "chat-ashor",
+    "storage_bucket": "chat-ashor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873297536160:android:b66fff567cf2e996b1d5c5",
+        "android_client_info": {
+          "package_name": "com.ashor.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873297536160-nc01rosjsofhfpdhi5inl8pa826j11e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGJkw2sYJLghn_qAFMG5LDNx8ie7t3h8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873297536160-nc01rosjsofhfpdhi5inl8pa826j11e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
